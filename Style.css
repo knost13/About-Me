@@ -40,6 +40,8 @@ ul{
     margin: 50px;
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     display: inline-block;
 }
 
@@ -53,6 +55,9 @@ ul{
                 width: 250px;
                 text-position: center;
                 display: block;
+                border-radius: 10%;
+                margin-left: 50px;
+                margin-right: 50px;
             }
             
 img{
@@ -71,6 +76,8 @@ img{
     margin: 50px;
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     padding: 25px;
     display: inline-block;
     border-radius: 15%;
