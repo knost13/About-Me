@@ -44,7 +44,7 @@ ul{
                 margin: 80px;
                 margin-bottom: 20px;
                 border-radius: 10px;
-                border-color: lightgoldenrodyellow;
+                border: 5px solid white;
             }
             
 img{
