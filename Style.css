@@ -44,6 +44,8 @@ ul{
     margin-right: 50px;
     display: inline-block;
     border-radius: 10%;
+    text-align: middle;
+    verticle-align: top;
 }
 
             .Contact{
@@ -83,4 +85,6 @@ img{
     display: inline-block;
     border-radius: 15%;
     background-color: yellowgreen;
+    text-align: center;
+    vertical-align: top;
 }
